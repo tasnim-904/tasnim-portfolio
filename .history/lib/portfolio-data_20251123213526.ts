@@ -45,7 +45,19 @@ export const projects: Project[] = [
   {
     id: "2",
     title: "E-commerce Management App ",
-    description: "An all-in-one platform to manage products, orders, and deliveries efficiently for businesses and customers.",
+    description: "Cute Calendar is a charming and interactive web-based calendar designed with a pastel, cute aesthetic and smooth animations. Users can:
+
+    View the current month with an easy-to-read, visually pleasing layout.
+    
+    Toggle between light and dark modes for a personalized viewing experience.
+    
+    Highlight today’s date with cute animations to make planning easier.
+    
+    Add events or notes to any day, such as appointments, birthdays, or reminders.
+    
+    Navigate easily between months using intuitive buttons.
+    
+    Perfect for anyone who wants a fun, functional, and visually delightful calendar to organize their schedule or keep track of special dates.",
     image: "/orders-mangement.png",
     tags: ["Design", "Figma", "UI/UX"],
     link:"https://www.figma.com/design/98uw0FmQ0d6bO2SII9itVM/Gestion-de-produit?node-id=0-1&t=jy7wXBDiamCQxWVl-1",
@@ -54,10 +66,10 @@ export const projects: Project[] = [
   {
     id: "3",
     title: "Cute Calendar Website ",
-    description: "A fun, interactive web calendar with cute pastel design, dark/light mode, and the ability to add events or reminders to any day. Built with HTML, CSS, and JavaScript.",
-    image: "/Calendar.png",
-    tags: ["Website", "HTML", "CSS", "JavaScript"],
-    link:"https://tasnim-904.github.io/cute-calendar/",
+    description: "An all-in-one platform to manage products, orders, and deliveries efficiently for businesses and customers.",
+    image: "/orders-mangement.png",
+    tags: ["Design", "Figma", "UI/UX"],
+    link:"https://www.figma.com/design/98uw0FmQ0d6bO2SII9itVM/Gestion-de-produit?node-id=0-1&t=jy7wXBDiamCQxWVl-1",
     featured: true
   },
 ]

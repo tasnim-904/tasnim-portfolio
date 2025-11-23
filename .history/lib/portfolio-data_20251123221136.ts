@@ -56,8 +56,8 @@ export const projects: Project[] = [
     title: "Cute Calendar Website ",
     description: "A fun, interactive web calendar with cute pastel design, dark/light mode, and the ability to add events or reminders to any day. Built with HTML, CSS, and JavaScript.",
     image: "/Calendar.png",
-    tags: ["Website", "HTML", "CSS", "JavaScript"],
-    link:"https://tasnim-904.github.io/cute-calendar/",
+    tags: ["Website", "HTML", "C"],
+    link:"https://www.figma.com/design/98uw0FmQ0d6bO2SII9itVM/Gestion-de-produit?node-id=0-1&t=jy7wXBDiamCQxWVl-1",
     featured: true
   },
 ]
