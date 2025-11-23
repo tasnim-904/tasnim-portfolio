@@ -209,5 +209,5 @@ export const languages = [
   { name: "French", level: "Fluent" },
   { name: "English", level: "Fluent" },
   { name: "Spanish", level: "Beginner" },
-  { name: "Korean", level: "Beginner" },
+  { name: "Korean", level: "Beginner" }
 ];
